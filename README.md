@@ -1,4 +1,7 @@
 # connectir
+<p align="center">
+<img src="https://github.com/connectir/.github/blob/main/logo.png" alt="logo" width="600" />
+</p>
 
 ## Structure
 
